@@ -40,7 +40,7 @@ const Layout = ({ children }) => (
           <footer style={{fontSize: '8px'}}>
             © {new Date().getFullYear()}, Built by
             {` `}
-            <a href="http://jonesy.dev">Raijn Enterprises</a>
+            <a href="http://jonesy.dev" target="_blank">Raijn Enterprises</a>
           </footer>
         </div>
       </>
